@@ -1,2 +1,2 @@
 # bibledit-gtk-old
-Old code for Bibledit-Gak
+Old code for Bibledit-Gtk
